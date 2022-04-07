@@ -1,2 +1,3 @@
 # sample
-gitt
+uploading sample files in a github
+
